@@ -6,7 +6,7 @@ public class Test {
         if (hungry == "yes")
         System.out.println("eat something.....");
         else{
-            System.out.println("Do work after this.....");
+            System.out.println("Make sure you do this work before boss coming.....");
         } 
     }
 }
